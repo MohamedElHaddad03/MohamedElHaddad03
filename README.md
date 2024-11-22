@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedElHaddad03
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning computer science in ENSAT
+- 🌱 I’m currently learning computer science in UBO
 - 📫 How to reach me : mohamed.elhaddad.contact@gmail.com
 
 <!---
